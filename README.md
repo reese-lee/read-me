@@ -2,7 +2,7 @@
 
 #### Pair Project for Epicodus, 03.18.2019
 
-#### By **AJ and Liz**
+#### By AJ, Liz and Reese
 
 ## Description
 
@@ -29,6 +29,6 @@ Atom 1.30.0x64, HTML, CSS.
 
 ### License
 
-*This software is licensed under the MIT license.*
+This software is licensed under the MIT license.
 
-Copyright (c) 2019 ** {AJ, Liz}**
+Copyright (c) 2019 AJ, Liz and Reese
