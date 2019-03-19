@@ -1,0 +1,22 @@
+h1 {
+  font-size: 100px;
+  color: #F408AA;
+  text-align: center;
+}
+
+h2 {
+  font-size: 75px;
+  color: #08F43A;
+  text-align: center;
+}
+
+p {
+  color: #F46008;
+  font-size: 40px;
+  line-height: 1em;
+}
+
+ul {
+  color: #08F4DC;
+  font-size: 30px;
+}
